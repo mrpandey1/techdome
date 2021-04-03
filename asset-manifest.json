@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/techdome/static/css/main.08419d52.chunk.css",
-    "main.js": "/techdome/static/js/main.432f437a.chunk.js",
-    "main.js.map": "/techdome/static/js/main.432f437a.chunk.js.map",
+    "main.js": "/techdome/static/js/main.c4921514.chunk.js",
+    "main.js.map": "/techdome/static/js/main.c4921514.chunk.js.map",
     "runtime-main.js": "/techdome/static/js/runtime-main.8137c7b5.js",
     "runtime-main.js.map": "/techdome/static/js/runtime-main.8137c7b5.js.map",
     "static/js/2.2d7209c6.chunk.js": "/techdome/static/js/2.2d7209c6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8137c7b5.js",
     "static/js/2.2d7209c6.chunk.js",
     "static/css/main.08419d52.chunk.css",
-    "static/js/main.432f437a.chunk.js"
+    "static/js/main.c4921514.chunk.js"
   ]
 }
