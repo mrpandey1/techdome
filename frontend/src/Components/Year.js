@@ -16,7 +16,7 @@ const Year = ({key,children}) => {
     }
 
     return (
-         <Button onClick={clickHandler} style={{margin:'5px 10px',padding:'5px 15px'}} variant="success">{children}</Button>
+         <Button onClick={clickHandler} style={{margin:'4% 0%',padding:'5px 10px'}} variant="success">{children}</Button>
         // <button onClick={clickHandler} className="yearButton">
         //     {children}
         // </button>

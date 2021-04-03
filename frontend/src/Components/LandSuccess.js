@@ -25,10 +25,10 @@ const LandSuccess = () => {
         </Row>
         <Row>
             <Col  sm={6} xl={6} lg={6} md={6} xs={6}>
-             <Button onClick={trueclickHandler} style={{margin:'10px',padding:'5px 12px'}} variant="success">true</Button>
+             <Button onClick={trueclickHandler} style={{margin:'4% 0%',padding:'5px 10px'}} variant="success">true</Button>
             </Col>
             <Col sm={6} xl={6} lg={6} md={6} xs={6}>
-            <Button onClick={falseclickHandler} style={{margin:'10px',padding:'5px 12px'}} variant="success">false</Button>
+            <Button onClick={falseclickHandler} style={{margin:'4% 0%',padding:'5px 10px'}} variant="success">false</Button>
             </Col>
         </Row>
         </div>
