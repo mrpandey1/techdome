@@ -19,15 +19,15 @@ const LandSuccess = () => {
     return (
         <div>
         <Row>
-            <Col>
+            <Col style={{textAlign:'center',marginBottom:'2%'}}>
             Successful Landing
             </Col>
         </Row>
         <Row>
-            <Col  sm={6} xl={6} lg={6} md={6} xs={6}>
+            <Col style={{textAlign:'center'}}  sm={6} xl={6} lg={6} md={6} xs={6}>
              <Button onClick={trueclickHandler} style={{margin:'4% 0%',padding:'5px 10px'}} variant="success">true</Button>
             </Col>
-            <Col sm={6} xl={6} lg={6} md={6} xs={6}>
+            <Col style={{textAlign:'center'}} sm={6} xl={6} lg={6} md={6} xs={6}>
             <Button onClick={falseclickHandler} style={{margin:'4% 0%',padding:'5px 10px'}} variant="success">false</Button>
             </Col>
         </Row>
