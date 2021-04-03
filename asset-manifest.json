@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techdome/static/css/main.08419d52.chunk.css",
+    "main.js": "/techdome/static/js/main.432f437a.chunk.js",
+    "main.js.map": "/techdome/static/js/main.432f437a.chunk.js.map",
+    "runtime-main.js": "/techdome/static/js/runtime-main.8137c7b5.js",
+    "runtime-main.js.map": "/techdome/static/js/runtime-main.8137c7b5.js.map",
+    "static/js/2.2d7209c6.chunk.js": "/techdome/static/js/2.2d7209c6.chunk.js",
+    "static/js/2.2d7209c6.chunk.js.map": "/techdome/static/js/2.2d7209c6.chunk.js.map",
+    "static/js/3.896a53d7.chunk.js": "/techdome/static/js/3.896a53d7.chunk.js",
+    "static/js/3.896a53d7.chunk.js.map": "/techdome/static/js/3.896a53d7.chunk.js.map",
+    "index.html": "/techdome/index.html",
+    "static/css/main.08419d52.chunk.css.map": "/techdome/static/css/main.08419d52.chunk.css.map",
+    "static/js/2.2d7209c6.chunk.js.LICENSE.txt": "/techdome/static/js/2.2d7209c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8137c7b5.js",
+    "static/js/2.2d7209c6.chunk.js",
+    "static/css/main.08419d52.chunk.css",
+    "static/js/main.432f437a.chunk.js"
+  ]
+}
