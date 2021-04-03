@@ -1,0 +1,45 @@
+html body{
+  background-color: lightgray;
+  overflow-x: hidden;
+}
+
+.filter{
+  padding: 20px;
+  background-color: white;
+  /* margin: 10px 0px 10px 10px; */
+}
+.programs{
+  /* margin: 5px; */
+}
+
+.yearButton{
+  background-color: green;
+  margin: 10px;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 0.3px gray;
+}
+
+.programName{
+  color: rgb(126, 39, 126);
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.body {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;  
+}
+.homescreen{
+  padding: 0 30px;
+}
+.spinner{
+  margin: 0 auto;
+}
+i{
+  color: black;
+  font-style:normal;
+  font-weight: bold;
+
+}
