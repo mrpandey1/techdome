@@ -7,10 +7,11 @@ const Filter = () => {
     return (
         <div className='filter'>
         <Row>
-            <Col sm={12}>
-            <span style={{fontWeight:'bolder'}}>
+            <Col sm={12} style={{textAlign:'center'}}>
+            <span style={{fontWeight:'bolder',color:'black'}}>
                 Filters
             </span>
+            <hr></hr>
             </Col>
         </Row>
         <Row>
@@ -28,7 +29,7 @@ const Filter = () => {
             }
             <Col sm={6} xl={6} lg={6} md={6} xs={6}>
                 <Year>
-                    All.
+                    All..
                 </Year>    
             </Col>
             </Row> 

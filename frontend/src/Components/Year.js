@@ -8,7 +8,7 @@ const Year = ({key,children}) => {
 
     const clickHandler = event => {
       event.preventDefault()
-      if(children==='All.'){
+      if(children==='All..'){
         dispatch(listProducts(`https://api.spacexdata.com/v3/launches?limit=100`))
       }else{
         dispatch(listProducts(`https://api.spacexdata.com/v3/launches?limit=100&launch_year=${children}`))
