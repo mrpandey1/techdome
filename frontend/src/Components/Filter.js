@@ -27,7 +27,7 @@ const Filter = () => {
                     </Col>
                 ))
             }
-            <Col sm={6} xl={6} lg={6} md={6} xs={6} style={{textAlign:'center'}}>
+            <Col sm='3' xl='6' lg='6' md='3' xs='6' style={{textAlign:'center'}}>
                 <Year>
                     All..
                 </Year>    
